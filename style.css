@@ -246,6 +246,17 @@ footer {
   background: transparent;
 }
 
+.btn-whatsapp {
+  background-color: #25D366; /* vert WhatsApp */
+  color: white;
+  border: none;
+}
+
+.btn-whatsapp:hover {
+  background-color: #1ebe5d; /* vert plus foncé */
+}
+
+
 
 
 
