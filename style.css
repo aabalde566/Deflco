@@ -152,6 +152,11 @@ footer {
 
   .logo {
     height: 55px;
+  } 
+
+  .hero {
+  min-height: 55vh;
+  padding: 80px 15px;
   }
 
   .hero h1 {
